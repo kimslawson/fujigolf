@@ -20,7 +20,7 @@ Use the joystick to aim the cursor in the direction you want to hit the ball. Th
 “Mount Fuji” is procedurally generated. Any similarity to actual mountains, living or dead, is purely coincidental.
 
 ## Colophon&nbsp;&nbsp;🧰
-Golf on Mount Fuji would not have been possible without standing on the shoulders of giants. I owe a large debt of gratitude to @dmsc for basicParser, @skr for MacTurban, and @mozzwald and @tschak909 for the wonderful FujiNet adapter (ALL HAIL THE FUJINET!) 
+Golf on Mount Fuji would not have been possible without standing on the shoulders of giants. I owe a large debt of gratitude to the following AtariAge users: @dmsc for basicParser, @skr for MacTurban, @luckybuck for Sublime Text integration and @mozzwald and @tschak909 for the wonderful FujiNet adapter (ALL HAIL THE FUJINET!) 
 
 ## Source code&nbsp;&nbsp;💻
 Please find the commented source code below (if you are curious). You may also wish to look at the obfuscated source code (if you are masochistic).
