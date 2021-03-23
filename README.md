@@ -14,7 +14,7 @@ The provided disk image contains TurboBASIC XL and automatically runs the game.
 18 holes of golf, but on Japan’s famous Mount Fuji.
 
 ## To play
-Use the joystick to aim the cursor in the direction you want to hit the ball. The farther you aim, the harder you hit the ball. Hit the ball into the hole in as few strokes as possible.
+Use the joystick to aim the cursor in the direction you want to hit the ball. The farther you aim, the harder you hit the ball. Hit the ball into the hole in as few strokes as possible. Don’t forget to turn up your sound!
 
 ## Please note
 “Mount Fuji” is procedurally generated. Any similarity to actual mountains, living or dead, is purely coincidental.
