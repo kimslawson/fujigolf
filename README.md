@@ -16,7 +16,7 @@ The provided disk image contains TurboBASIC XL and automatically runs the game.
 ## To play&nbsp;&nbsp;🕹️➡️🕳️
 Use the joystick to aim the cursor in the direction you want to hit the ball. The farther you aim, the harder you hit the ball. Hit the ball into the hole in as few strokes as possible. Don’t forget to turn up your sound!
 
-## Please note&nbsp;&nbsp;❗
+## Please note&nbsp;❗
 “Mount Fuji” is procedurally generated. Any similarity to actual mountains, living or dead, is purely coincidental.
 
 ## Colophon&nbsp;&nbsp;🧰
