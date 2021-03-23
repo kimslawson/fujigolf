@@ -1,6 +1,6 @@
 ![](lucky.gif)
 
-# Golf on Mt. Fuji
+# Golf on Mt. Fuji&nbsp;&nbsp;⛳&nbsp;🗻&nbsp;🏌️
 
 By Kim Slawson, February – March 2021
 
@@ -10,19 +10,19 @@ Requires an Atari 8-bit machine or emulator running TurboBASIC XL (800XL minimum
 
 The provided disk image contains TurboBASIC XL and automatically runs the game.
 
-## The pitch
-18 holes of golf, but on Japan’s famous Mount Fuji.
+## The pitch&nbsp;&nbsp;📈
+18 holes of golf, but on Japan’s famous Mount Fuji. 
 
-## To play
+## To play&nbsp;&nbsp;🕹️➡️🕳️
 Use the joystick to aim the cursor in the direction you want to hit the ball. The farther you aim, the harder you hit the ball. Hit the ball into the hole in as few strokes as possible. Don’t forget to turn up your sound!
 
-## Please note
+## Please note&nbsp;&nbsp;❗
 “Mount Fuji” is procedurally generated. Any similarity to actual mountains, living or dead, is purely coincidental.
 
-## Colophon
+## Colophon&nbsp;&nbsp;🧰
 Golf on Mount Fuji would not have been possible without standing on the shoulders of giants. I owe a large debt of gratitude to @dmsc for basicParser, @skr for MacTurban, and @mozzwald and @tschak909 for the wonderful FujiNet adapter (ALL HAIL THE FUJINET!) 
 
-## Source code
+## Source code&nbsp;&nbsp;💻
 Please find the commented source code below (if you are curious). You may also wish to look at the obfuscated source code (if you are masochistic).
 <details>
  <summary><strong>Commented source</strong></summary>
@@ -245,7 +245,7 @@ WHILE STRIG(0):POKE 77,0:WEND:RUN
 ```
 </details>
 
-## Get in touch 
+## Get in touch&nbsp;&nbsp;📩
 
   * [OxC0FFEE on AtariAge](https://atariage.com/forums/profile/50996-oxc0ffee/)
   * [OxC0FFEE on Twitter](https://twitter.com/OxC0FFEE)
