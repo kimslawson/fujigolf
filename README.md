@@ -27,6 +27,6 @@ Please find the commented source code in this repository (if you are curious). Y
 
 ## Get in touch 
 
-  ▪	[OxC0FFEE on AtariAge](https://atariage.com/forums/profile/50996-oxc0ffee/)
-  ▪	[OxC0FFEE on Twitter](https://twitter.com/OxC0FFEE)
-	▪	[kimslawson@gmail.com](mailto:kimslawson@gmail.com)
+  * [OxC0FFEE on AtariAge](https://atariage.com/forums/profile/50996-oxc0ffee/)
+  * [OxC0FFEE on Twitter](https://twitter.com/OxC0FFEE)
+  * [kimslawson@gmail.com](mailto:kimslawson@gmail.com)
