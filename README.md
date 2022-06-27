@@ -1,3 +1,5 @@
+<a href="https://github.com/kimslawson/fujigolf/raw/main/mount%20fuji.png"><img src="mount fuji.png" alt="composited image of all 18 procedurally generated holes on Mount Fuji"></a>
+
 ![](lucky.gif)
 
 # Golf on Mt. Fuji&nbsp;&nbsp;⛳&nbsp;🗻&nbsp;🏌️
